@@ -1120,6 +1120,12 @@ define('modules/tilesets',["views/tileset_view", "jquery.mousewheel", "jquery.js
 			tilewidth: 32,
 			tileheight: 32
 		});
+		
+		this.add({
+			image: "img/tilesets/PWSci.png",
+			tilewidth: 32,
+			tileheight: 32
+		});
 	};
 
 	/* ================= */
